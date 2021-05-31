@@ -1,6 +1,6 @@
 baseURL = "https://susie-chen351.github.io/"
 languageCode = "en-us"
-title = "Edna West"
+title = "Susie Chen"
 theme = "personal-web"
 copyright="© Susie Chen"
 publishDir = "susie-chen351.github.io"
@@ -43,7 +43,7 @@ pygmentsCodeFences=true
 [params.sidebar]
   backgroundImage = '' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
   gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-  logo = "" # - default "/images/edna-west.jpg"
+  logo = "/images/config.jpeg" # - default "/images/edna-west.jpg"
 [params.assets]
   favicon = ""
   customCSS = ""
